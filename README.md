@@ -39,4 +39,4 @@ Specifies a Real Name
 Print server responses without formatting (Raw Lines Mode)  
 
 ## License
-pyIrc is licensed under the GNU Library or "Lesser" General Public License (LGPL).
+pyIrc is licensed under the GNU Library or "Lesser" General Public License (LGPL) v3.
